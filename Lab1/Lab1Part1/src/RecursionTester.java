@@ -1,24 +1,21 @@
 /**
- * @author B00105244
- *
+ @author B00095740
  */
 
 public class RecursionTester
 {
 	/**
-	 * Executes main method
-	 * @param args
+	 Executes main method
 	 */
 
 	public static void main(String[] args)
 	{
-		System.out.println(recursiveAddition(5));
+		System.out.println(recursiveAddition(5));//prints system out
 
 	}
 	
 	/**
 	 * Recursively adds the factorials of given integer
-	 * @param args
 	 */
 	
 	public static int recursiveAddition(int i)
