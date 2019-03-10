@@ -1,0 +1,12 @@
+Mar 09, 2019 11:08:11 PM Revision1 main
+ALL: Trying to reach something that doesn't exist
+1024
+java.lang.ArrayIndexOutOfBoundsException: 1024
+	at Revision1.main(Revision1.java:17)
+
+Mar 09, 2019 11:08:11 PM Revision1 main
+ALL: Stack Trace
+[Ljava.lang.StackTraceElement;@839c6c7
+java.lang.ArrayIndexOutOfBoundsException: 1024
+	at Revision1.main(Revision1.java:17)
+
